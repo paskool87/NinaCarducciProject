@@ -1,3 +1,56 @@
+/* INTER 400 */
+@font-face {
+  font-family: 'Inter';
+  src: url('./font/inter-v20-latin-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SPECTRAL 300 ITALIC */
+@font-face {
+  font-family: 'Spectral';
+  src: url('./font/spectral-v15-latin-300italic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* SPECTRAL 400 ITALIC */
+@font-face {
+  font-family: 'Spectral';
+  src: url('./font/spectral-v15-latin-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* SPECTRAL 800 NORMAL */
+@font-face {
+  font-family: 'Spectral';
+  src: url('./font/spectral-v15-latin-800.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SPECTRAL 800 ITALIC */
+@font-face {
+  font-family: 'Spectral';
+  src: url('./font/spectral-v15-latin-800italic.woff2') format('woff2');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+
+
+
+
+
+
+
 body {
 	max-width: 1920px;
 	margin: auto;
