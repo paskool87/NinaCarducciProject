@@ -51,6 +51,14 @@ body {
   font-family: "Inter";
   font-style: normal;
 }
+
+header {
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
 .top-header {
   background-color: white;
   position: sticky;
@@ -129,8 +137,10 @@ body {
   font-weight: 800;
   font-style: italic;
   width: 60%;
+  font-size: 16px;
+  line-height: 1.3;
 }
-#about-me p {
+.about-me__intro2  {
   width: 80%;
   font-size: 14px;
 }
@@ -194,7 +204,13 @@ body {
   font-family: Spectral;
   font-style: italic;
   font-weight: 300;
+  font-size:2.5rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+  margin: 0;
 }
+
 .quote__author {
   font-family: Spectral;
   font-weight: 800;
