@@ -96,6 +96,8 @@ header {
   width: 20px;
 }
 
+
+
 #about {
   display: flex;
   background-color: #f6d2b8;
@@ -157,7 +159,7 @@ header {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: #1a1a1a;
   background-color: #beb45a;
   border-radius: 0;
 }
